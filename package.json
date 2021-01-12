@@ -1,0 +1,29 @@
+{
+  "name": "video-chat-webrtc",
+  "version": "1.0.0",
+  "description": "A simple video chat app developed using Socket.io and WebRTC",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-hahn/video-chat-webrtc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-hahn/video-chat-webrtc/issues"
+  },
+  "homepage": "https://github.com/gabriel-hahn/video-chat-webrtc#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^3.0.5",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
