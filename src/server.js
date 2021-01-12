@@ -3,7 +3,9 @@ const app = express();
 const server = require('http').Server(app);
 const io = require('socket.io')(server);
 const { v4: uuidV4 } = require('uuid');
+const path = require('path');
 
+app.set('views', path.join(__dirname, './views'));
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
 
