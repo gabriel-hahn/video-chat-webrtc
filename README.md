@@ -22,7 +22,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-[Gabriel Hahn Schaeffer](https://github.com/gabriel-hahn/)
+[Gabriel Hahn Schaeffer](https://github.com/gabriel-hahn/) | [Based on this tutorial](https://www.youtube.com/watch?v=DvlyzDZDEq4)
 
 See also the list of [contributors](https://github.com/gabriel-hahn/video-chat-webrtc/contributors) who participated in this project.
 
